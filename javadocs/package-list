@@ -29,6 +29,7 @@ org.zaproxy.zap.extension.alert
 org.zaproxy.zap.extension.anticsrf
 org.zaproxy.zap.extension.api
 org.zaproxy.zap.extension.ascan
+org.zaproxy.zap.extension.auth
 org.zaproxy.zap.extension.autoupdate
 org.zaproxy.zap.extension.beanshell
 org.zaproxy.zap.extension.brk
