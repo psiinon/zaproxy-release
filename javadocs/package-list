@@ -13,7 +13,6 @@ org.parosproxy.paros.extension.history
 org.parosproxy.paros.extension.manualrequest
 org.parosproxy.paros.extension.manualrequest.http.impl
 org.parosproxy.paros.extension.option
-org.parosproxy.paros.extension.patternsearch
 org.parosproxy.paros.extension.report
 org.parosproxy.paros.extension.state
 org.parosproxy.paros.model
