@@ -30,7 +30,6 @@ org.zaproxy.zap.extension.api
 org.zaproxy.zap.extension.ascan
 org.zaproxy.zap.extension.auth
 org.zaproxy.zap.extension.autoupdate
-org.zaproxy.zap.extension.beanshell
 org.zaproxy.zap.extension.brk
 org.zaproxy.zap.extension.brk.impl.http
 org.zaproxy.zap.extension.bruteforce
@@ -74,7 +73,6 @@ org.zaproxy.zap.extension.lang
 org.zaproxy.zap.extension.log4j
 org.zaproxy.zap.extension.option
 org.zaproxy.zap.extension.params
-org.zaproxy.zap.extension.portscan
 org.zaproxy.zap.extension.pscan
 org.zaproxy.zap.extension.pscan.scanner
 org.zaproxy.zap.extension.reveal
@@ -84,18 +82,6 @@ org.zaproxy.zap.extension.siterefresh
 org.zaproxy.zap.extension.spider
 org.zaproxy.zap.extension.stdmenus
 org.zaproxy.zap.extension.tab
-org.zaproxy.zap.extension.websocket
-org.zaproxy.zap.extension.websocket.brk
-org.zaproxy.zap.extension.websocket.db
-org.zaproxy.zap.extension.websocket.filter
-org.zaproxy.zap.extension.websocket.fuzz
-org.zaproxy.zap.extension.websocket.manualsend
-org.zaproxy.zap.extension.websocket.ui
-org.zaproxy.zap.extension.websocket.ui.httppanel.component
-org.zaproxy.zap.extension.websocket.ui.httppanel.models
-org.zaproxy.zap.extension.websocket.ui.httppanel.views
-org.zaproxy.zap.extension.websocket.ui.httppanel.views.large
-org.zaproxy.zap.extension.websocket.utility
 org.zaproxy.zap.httputils
 org.zaproxy.zap.model
 org.zaproxy.zap.network
